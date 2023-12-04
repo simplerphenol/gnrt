@@ -1,1 +1,2 @@
 # gnrt
+generates a Fibonacci
